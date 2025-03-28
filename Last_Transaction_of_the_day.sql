@@ -22,19 +22,8 @@ The output should include the ID of the transaction, datetime of the transaction
 
 Output Schema:
 
-Column
-
-Type
-
-id
-
-INT
-
-created_at
-
-DATETIME
-
-transaction_value
-
-FLOAT
+Column            Type
+id                INT
+created_at        DATETIME
+transaction_value FLOAT
 
