@@ -1,1 +1,3 @@
-# Questions_Solved
+# Questions Solved
+
+### Mostly SQL Questions I solved 😁
